@@ -5,8 +5,13 @@ A sleek, modern, and responsive personal portfolio website built with React and 
 🚀 Live Website
 
 🔗 View Portfolio
- (Add your Vercel link here)
 
+ https://future-fs-01-flax-psi.vercel.app/
+
+🔗 View Video Clip
+
+https://drive.google.com/file/d/1YNn4BgTb8STovR9BZt-qrFc873z3l3G3/view?usp=drive_link
+ 
 📖 About The Project
 
 This portfolio is a reflection of my technical skills, creativity, and passion for web development.
